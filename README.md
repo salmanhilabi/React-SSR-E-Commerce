@@ -1,8 +1,8 @@
 # React-SSR-E-Commerce
 
-### Note: you have to add mongodb URI and stripe credentials in the config file
-
 #### Demo https://react-ecommerce-app-ssr.herokuapp.com/
+
+### Note: add your MongoDB URI and stripe credentials in the config file
 
 this is not a production ready web app, i built this just for fun, if your looking for production ready web app a lot of improvement is needed, but you can start from here and then add features according to your need. 
 
