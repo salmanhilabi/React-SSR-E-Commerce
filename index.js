@@ -3,11 +3,6 @@ import compression from "compression";
 import mongoose from "mongoose";
 import config from "./config.json";
 import cors from "cors";
-// import { matchRoutes } from "react-router-config";
-// import Routes from "./src/shared/Routes";
-// import createStore from "./src/shared/store/index";
-// import renderer from "./src/shared/helpers/renderer";
-// import Products from "./src/server/models/products";
 import router from "./src/server/controllers/index";
 
 const app = express();

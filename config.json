@@ -1,7 +1,7 @@
 {
-  "MONGODB_URI": "mongodb+srv://product_data:wSyGzYAuSuJRk7Av@messages-oddkg.mongodb.net/ecommerce?retryWrites=true&w=majority",
+  "MONGODB_URI": "your_mongo_uri",
   "enviorment": "production",
-  "PUBLIC_KEY": "pk_test_51HFQ4HK7Oej2TK9h9RaG1fJZgCN21COwBfAlUJq5oXVnPOP7ZqLPLVFoEbQBkGItW5mxVeAeROPc02EMn4Bn4VNL00032HCVbk",
-  "SECRET_KEY": "sk_test_51HFQ4HK7Oej2TK9hh4WeXQycvPrA86ScNx0MHvf6DYPX4ICuSy2Ohm8eLHmnGu3mWIGB24WWpgb9T5M3MRxEI8v800wfEOnsMK",
+  "PUBLIC_KEY": "your_public_key",
+  "SECRET_KEY": "your_secret_key",
   "COUPON_CODE": "cart40"
 }

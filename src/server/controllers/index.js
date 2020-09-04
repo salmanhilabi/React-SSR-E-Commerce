@@ -86,7 +86,7 @@ router.post("/checkout", async (req, res) => {
   let total = await calculateOrderAmount(items);
 
   const paymentIntent = await stripe.paymentIntents.create({
-    description: "E-Commerce Website",
+    description: "E-Commerce Web App",
     amount: total,
     currency: "usd",
   });

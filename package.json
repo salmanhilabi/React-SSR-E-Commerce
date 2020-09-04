@@ -12,7 +12,7 @@
     "dev:build-client": "webpack --config webpack.client.js --watch",
     "dev:server": "nodemon --watch build --exec node build/bundle.js"
   },
-  "author": "",
+  "author": "Salman Hilabi",
   "license": "ISC",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.1.2",
