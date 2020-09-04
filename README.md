@@ -12,4 +12,4 @@ this is not a production ready web app, i built this just for fun, if your looki
 ##### adding size and stock quantity for each color, 
 ##### structuring the database in a better way to handle your needs, 
 ##### creating a collection for coupon, 
-##### most important adding login system with authentication, etc.,
+##### most important adding login system with authentication
